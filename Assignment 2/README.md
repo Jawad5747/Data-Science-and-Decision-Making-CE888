@@ -1,5 +1,5 @@
-
-Is UK police bias on traffic stops and search drivers by racism
+**
+Is UK police bias on traffic stops and search drivers by racism**
 
 Firstly, traffic stops reasons are checked and results that the top violation of traffic stop is moving violation then equipment and so on as shown blow. Driving under the influence just 724 as compared to moving violation. It is stated that most of the police arrests were execute due to moving violations. The traffic stops outcomes also examined in which majority of the outcomes user traffic stops are written warning and citation over the 1/3 of the results of the stop.
 
@@ -11,7 +11,7 @@ It is invested that the Asian, Black, and Hispanic drivers are arrested at a hig
 
  
 
-Data set
+**Data set**
 
 My data set available on google drive link:
 https://docs.google.com/spreadsheets/d/1I1Tr9TGMVtOJWw0-u8rOx7VPRQwJIPw81UY5H5vTQr0/edit?usp=sharing
